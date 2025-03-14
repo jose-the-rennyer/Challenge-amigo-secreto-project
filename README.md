@@ -1,5 +1,7 @@
 # Challenge Amigo Secreto
 
+<a href="https://jose-the-rennyer.github.io/Challenge-amigo-secreto-project/" target="_blank">Projeto</a>
+
 <img src="https://github.com/user-attachments/assets/91a71bc8-d4e8-476d-97fe-98b11b5f9069" alt="Imagem que mostra o projeto" height="350px"/>
 
 ## Sobre o projeto
